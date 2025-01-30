@@ -10,5 +10,6 @@ type Annotation struct {
 	// * v2ray:api:deprecated for types or functions that should not be used anymore.
 	//
 	// Types or functions without api annotation should not be used externally.
+	// this is test
 	API string
 }
